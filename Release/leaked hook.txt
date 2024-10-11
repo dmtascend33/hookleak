@@ -1,0 +1,5 @@
+replace .node file
+run injector.exe
+open discord
+after discord loads press f3
+u can end injector.exe task
